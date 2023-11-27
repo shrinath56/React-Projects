@@ -3,3 +3,6 @@ Page 1 -
 
 Page 2 - 
 ![image](https://github.com/shrinath56/React-Projects/assets/46258187/e1f088f4-c680-4a9e-886d-5758f171675d)
+
+Post Popup-
+![image](https://github.com/shrinath56/React-Projects/assets/46258187/5d51f88e-fc48-41be-b9e3-e097df5254aa)
