@@ -1,0 +1,34 @@
+
+.user-detail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}
+
+.back-button {
+  padding: 10px 20px;
+  background-color: #86D2FA ;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.back-button:hover {
+  background-color: #cce5ff;
+}
+
+.user-detail-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
